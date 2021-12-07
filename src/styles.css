@@ -2,3 +2,28 @@
   font-family: sans-serif;
   text-align: center;
 }
+#userInput {
+  display: block;
+  margin: 1rem auto;
+  width: 80%;
+  height: 5vh;
+  border: 0.1rem solid;
+  border-radius: 0.5rem;
+  padding: 0.5rem;
+  font-size: 1.5rem;
+}
+
+#output {
+  font-weight: 600;
+  font-size: 1.5rem;
+}
+
+.emojiButton {
+  background-color: transparent;
+  background-repeat: no-repeat;
+  border: none;
+  cursor: pointer;
+  overflow: hidden;
+  font-size: 2rem;
+  margin: 1rem 0;
+}
